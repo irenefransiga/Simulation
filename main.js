@@ -152,9 +152,9 @@ Circle.prototype.update = function () {
         //     console.log(this.time);
         //     // this.game.removeEntity(this.game.entities[this.game.entities.length -1]);
         //     // //not showing :/ 
-        //     this.ctx.fillStyle = 'white';
-        //     this.ctx.font = '20px Comic Sans MS';
-        //     this.ctx.fillText("Time Taken: " + this.time + " seconds", 500, 100);
+            // this.ctx.fillStyle = "white";
+            // this.ctx.font = "24pt Impact";
+            // this.ctx.fillText("Time Taken: " + this.time + " seconds", 500, 100);
         //     // console.log("printed");
         //     this.game.removeEntity(this.game.entities[this.game.entities.length -1]);
         // }
